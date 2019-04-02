@@ -1,4 +1,7 @@
-# Disaster Response Pipeline Project
+# Starbucks Experimental Analysis and Optimization Project
+
+![](assets/Starbucks.gif)
+
 ## Table of Contents
 1. [Installation and Instructions](#Installation)
 2. [Project Motivation](#Motivation)
